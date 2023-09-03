@@ -8,7 +8,7 @@ public class CodewarsClass
         /* IKata sampleKata = new ExampleKata();
         ITestableKata sampleTestableKata = new ExampleTestableKata();
         
-        sampleKata.Run(new object[] { 99, 99});
+        sampleKata.Run(new object[] { 99, 99 });
         sampleTestableKata.Run(); */
         //////////////////////////////////
     }
