@@ -1,4 +1,8 @@
-﻿namespace CodewarsFun.Main;
+﻿using CodewarsFun.Examples;
+using CodewarsFun.General.Interfaces;
+using CodewarsFun.Katas;
+
+namespace CodewarsFun.Main;
 
 public class CodewarsClass
 {
@@ -11,5 +15,8 @@ public class CodewarsClass
         sampleKata.Run(new object[] { 99, 99 });
         sampleTestableKata.Run(); */
         //////////////////////////////////
+        
+        ITestableKata sampleTestableKata = new kata_PathFinder();
+        sampleTestableKata.Run();
     }
 }

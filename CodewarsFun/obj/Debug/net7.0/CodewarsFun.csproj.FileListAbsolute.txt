@@ -1,0 +1,15 @@
+C:\Users\Vier\RiderProjects\CodewarsFun\CodewarsFun\bin\Debug\net7.0\CodewarsFun.exe
+C:\Users\Vier\RiderProjects\CodewarsFun\CodewarsFun\bin\Debug\net7.0\CodewarsFun.deps.json
+C:\Users\Vier\RiderProjects\CodewarsFun\CodewarsFun\bin\Debug\net7.0\CodewarsFun.runtimeconfig.json
+C:\Users\Vier\RiderProjects\CodewarsFun\CodewarsFun\bin\Debug\net7.0\CodewarsFun.dll
+C:\Users\Vier\RiderProjects\CodewarsFun\CodewarsFun\bin\Debug\net7.0\CodewarsFun.pdb
+C:\Users\Vier\RiderProjects\CodewarsFun\CodewarsFun\obj\Debug\net7.0\CodewarsFun.csproj.AssemblyReference.cache
+C:\Users\Vier\RiderProjects\CodewarsFun\CodewarsFun\obj\Debug\net7.0\CodewarsFun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vier\RiderProjects\CodewarsFun\CodewarsFun\obj\Debug\net7.0\CodewarsFun.AssemblyInfoInputs.cache
+C:\Users\Vier\RiderProjects\CodewarsFun\CodewarsFun\obj\Debug\net7.0\CodewarsFun.AssemblyInfo.cs
+C:\Users\Vier\RiderProjects\CodewarsFun\CodewarsFun\obj\Debug\net7.0\CodewarsFun.csproj.CoreCompileInputs.cache
+C:\Users\Vier\RiderProjects\CodewarsFun\CodewarsFun\obj\Debug\net7.0\CodewarsFun.dll
+C:\Users\Vier\RiderProjects\CodewarsFun\CodewarsFun\obj\Debug\net7.0\refint\CodewarsFun.dll
+C:\Users\Vier\RiderProjects\CodewarsFun\CodewarsFun\obj\Debug\net7.0\CodewarsFun.pdb
+C:\Users\Vier\RiderProjects\CodewarsFun\CodewarsFun\obj\Debug\net7.0\CodewarsFun.genruntimeconfig.cache
+C:\Users\Vier\RiderProjects\CodewarsFun\CodewarsFun\obj\Debug\net7.0\ref\CodewarsFun.dll

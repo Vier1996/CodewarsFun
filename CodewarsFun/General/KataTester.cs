@@ -32,8 +32,7 @@ public class KataTester
             else
             {
                 Console.WriteLine(testPrefix + testIndex +
-                                  $" | {KataDebugConstants.TESTING_FAILED} | {KataDebugConstants.TESTING_WITH_ARGS} " + 
-                                  $"<{(int)kataTest[0]}, {(int)kataTest[1]}> {KataDebugConstants.TESTING_SPECIAL_SYMBOL}");
+                                  $" | {KataDebugConstants.TESTING_FAILED} {KataDebugConstants.TESTING_SPECIAL_SYMBOL}");
 
                 result = false;
             }
